@@ -8,5 +8,6 @@ public class LmsAdminServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LmsAdminServiceApplication.class, args);
+		System.out.println("sda");
 	}
 }
